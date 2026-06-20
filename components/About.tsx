@@ -6,7 +6,7 @@ export default function About() {
       </h2>
 
       <p className="text-gray-400">
-        Full Stack Developer Intern with experience
+        Full Stack Developer Intern with experience and passion for building scalable web applications. Skilled
         in React, Next.js, NestJS, MongoDB and MySQL.
       </p>
     </section>
